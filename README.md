@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caner-aydin1&" alt="caner-aydin1" /></p>
 
+![snake gif](https://github.com/Caner-AYDIN1/Caner-AYDIN1/blob/output/github-contribution-grid-snake.gif)
